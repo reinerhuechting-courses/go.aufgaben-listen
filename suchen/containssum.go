@@ -1,4 +1,4 @@
-package findfoo
+package suchen
 
 // Erwartet eine Liste von Zahlen.
 // Liefert true, falls die Liste an irgendeiner

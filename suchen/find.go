@@ -1,4 +1,4 @@
-package findfoo
+package suchen
 
 // Erwartet eine Liste von Zahlen und eine Zahl x.
 // Liefert die Position von x in der Liste.
