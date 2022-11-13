@@ -1,4 +1,4 @@
-package findfoo
+package suchen
 
 // Erwartet eine Liste von Zahlen und eine Zahl x.
 // Falls es eine Stelle gibt, an der x zwei Mal

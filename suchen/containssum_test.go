@@ -1,4 +1,4 @@
-package findfoo
+package suchen
 
 import "fmt"
 

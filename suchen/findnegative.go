@@ -1,4 +1,4 @@
-package findfoo
+package suchen
 
 // Erwartet eine Liste von Zahlen.
 // Liefert die Position der ersten negativen Zahl in der Liste.
