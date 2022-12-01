@@ -6,14 +6,6 @@ package suchen
 // diese Stelle.
 // Liefert -1, falls die Situation nicht auftritt.
 func FindPair(list []int, x int) int {
-	if len(list) < 2 {
-		return -1
-	}
-
-	for pos, el := range list[:len(list)-1] {
-		if el == x && list[pos+1] == x {
-			return pos
-		}
-	}
+	// TODO
 	return -1
 }

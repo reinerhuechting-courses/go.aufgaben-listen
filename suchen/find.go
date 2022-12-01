@@ -4,10 +4,6 @@ package suchen
 // Liefert die Position von x in der Liste.
 // Liefert -1, falls x nicht enthalten ist.
 func Find(list []int, x int) int {
-	for pos, el := range list {
-		if el == x {
-			return pos
-		}
-	}
+	// TODO
 	return -1
 }
